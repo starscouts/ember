@@ -1,0 +1,11 @@
+[
+    {
+        "description": "A Git-based package manager made for Minteck's infrastructure",
+        "shortName": "TPM",
+        "name": "Twilight Package Manager",
+        "id": "0-43",
+        "$type": "Project",
+        "name_compare": "twilightpackagemanager",
+        "description_compare": "agitbasedpackagemanagermadeformintecksinfrastructure"
+    }
+]
